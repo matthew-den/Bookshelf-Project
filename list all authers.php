@@ -1,4 +1,4 @@
-<?php    include "../bookshelf/includes/header.php";   ?>
+<?php    include "./includes/header.php";   ?>
 
 <!DOCTYPE html>
 <html lang="English">
@@ -94,4 +94,8 @@ while($row = mysqli_fetch_array($result)) {
 
         <?php    
 //mysqli_close($conn);  
+?>
+        
+        <?php
+include "./includes/footer.php";
 ?>

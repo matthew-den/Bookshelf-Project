@@ -1,4 +1,4 @@
-<?php    include "../bookshelf/includes/header.php";   ?>
+<?php    include "./includes/header.php";   ?>
 
 <?php
 $cn = mysqli_connect("localhost","root","","bookshelf");
@@ -44,5 +44,5 @@ if (isset($_POST['title'])){
 </html>
 
 <?php
-include "../bookshelf/includes/footer.php";
+include "./includes/footer.php";
 ?>

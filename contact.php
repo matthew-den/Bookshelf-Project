@@ -1,3 +1,3 @@
-<?php    include "../bookshelf/includes/header.php";   ?>
+<?php    include "./includes/header.php";   ?>
 
-<?php    include "../bookshelf/includes/footer.php";    ?>
+<?php    include "./includes/footer.php";    ?>

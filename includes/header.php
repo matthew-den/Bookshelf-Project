@@ -16,7 +16,7 @@
     </header>
     <script src=""></script>
     <hr style="width:200px" align="left">
-    <p><a href="../bookshelf/index.php">Home</a></p>
+    <p><a href="./index.php">Home</a></p>
 </body>
 
 </html>

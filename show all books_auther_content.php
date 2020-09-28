@@ -1,4 +1,4 @@
-<?php    include "../bookshelf/includes/header.php";   ?>
+<?php    include "./includes/header.php";   ?>
 
 <?php 
 $con=mysqli_connect("localhost","root","","bookshelf");

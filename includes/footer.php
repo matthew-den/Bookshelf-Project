@@ -12,7 +12,7 @@
     <script src=""></script>
 
     <footer>
-        <p>Australian TASTafe Education Group</p>
+        <p>Australia TASTafe Education Group</p>
     </footer>
 
     <?php

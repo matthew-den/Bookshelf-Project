@@ -1,5 +1,5 @@
 <?php
-include "../bookshelf/includes/header.php";
+include "./includes/header.php";
 
 $conn=mysqli_connect("localhost","root","","bookshelf");
 // Check connection
@@ -90,5 +90,5 @@ mysqli_close($conn);
 </html>
 
 <?php
-include "../bookshelf/includes/footer.php";
+include "./includes/footer.php";
 ?>
